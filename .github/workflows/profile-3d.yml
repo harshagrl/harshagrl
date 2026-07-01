@@ -19,8 +19,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name "Akshat Soni"
-          git config user.email "Akshatsoni5380@gmail.com"
+          git config user.name "harshagrl"
+          git config user.email "harshkr.agrl@gmail.com"
           git add -A .
           git commit -m "chore: updated 3D contribution graph"
           git push
