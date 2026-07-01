@@ -7,8 +7,8 @@ WORKSPACE_DIR="$(pwd)"
 OUTPUT_FILE="$WORKSPACE_DIR/loc-data.json"
 TEMP_DIR=$(mktemp -d)
 
-# We use GITHUB_ACTOR to automatically target your username (akki120781)
-USERNAME=${GITHUB_ACTOR:-"akki120781"}
+# We use GITHUB_ACTOR to automatically target your username (harshagrl)
+USERNAME=${GITHUB_ACTOR:-"harshagrl"}
 
 echo "Fetching public repository list for $USERNAME..."
 ALL_REPOS=()
