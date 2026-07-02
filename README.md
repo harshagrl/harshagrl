@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Kumar</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Harsh Kumar</h1>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=70&lines=Final+Year+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
   
