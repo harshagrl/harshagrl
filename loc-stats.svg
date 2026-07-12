@@ -10,14 +10,14 @@
   <rect x="10" y="10" width="780" height="3" fill="url(#accent-gradient)" rx="1.5"/>
 
   <text x="40" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="32" font-weight="700" fill="#c0caf5">
-    143,189
+    147,334
   </text>
   <text x="40" y="78" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#565f89" letter-spacing="1">
     LINES OF CODE
   </text>
 
   <text x="760" y="55" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="24" font-weight="600" fill="#c0caf5" text-anchor="end">
-    955
+    993
   </text>
   <text x="760" y="75" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end" letter-spacing="1">
     FILES
@@ -35,55 +35,55 @@
   <rect x="180" y="148" width="450" height="14" fill="#24283b" rx="3"/>
   <rect x="180" y="148" width="450.0" height="14" fill="#e0af68" rx="3" opacity="0.85"/>
   <text x="650" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
-    41,686
+    42,484
   </text>
   <text x="760" y="160" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
-    29.1%
+    28.8%
   </text>
 
   <text x="40" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#c0caf5">
     TypeScript
   </text>
   <rect x="180" y="173" width="450" height="14" fill="#24283b" rx="3"/>
-  <rect x="180" y="173" width="152.14460490332485" height="14" fill="#7aa2f7" rx="3" opacity="0.85"/>
+  <rect x="180" y="173" width="149.28679032106206" height="14" fill="#7aa2f7" rx="3" opacity="0.85"/>
   <text x="650" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
     14,094
   </text>
   <text x="760" y="185" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
-    9.8%
+    9.6%
   </text>
 
   <text x="40" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#c0caf5">
     C Header
   </text>
   <rect x="180" y="198" width="450" height="14" fill="#24283b" rx="3"/>
-  <rect x="180" y="198" width="84.2657007148683" height="14" fill="#7aa2f7" rx="3" opacity="0.85"/>
+  <rect x="180" y="198" width="82.68289238301479" height="14" fill="#7aa2f7" rx="3" opacity="0.85"/>
   <text x="650" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
     7,806
   </text>
   <text x="760" y="210" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
-    5.5%
+    5.3%
   </text>
 
   <text x="40" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#c0caf5">
     YAML
   </text>
   <rect x="180" y="223" width="450" height="14" fill="#24283b" rx="3"/>
-  <rect x="180" y="223" width="51.15746293719714" height="14" fill="#bb9af7" rx="3" opacity="0.85"/>
+  <rect x="180" y="223" width="50.196544581489505" height="14" fill="#bb9af7" rx="3" opacity="0.85"/>
   <text x="650" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
     4,739
   </text>
   <text x="760" y="235" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
-    3.3%
+    3.2%
   </text>
 
   <text x="40" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="13" fill="#c0caf5">
     CSS
   </text>
   <rect x="180" y="248" width="450" height="14" fill="#24283b" rx="3"/>
-  <rect x="180" y="248" width="32.90313294631291" height="14" fill="#9ece6a" rx="3" opacity="0.85"/>
+  <rect x="180" y="248" width="32.96299783447886" height="14" fill="#9ece6a" rx="3" opacity="0.85"/>
   <text x="650" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
-    3,048
+    3,112
   </text>
   <text x="760" y="260" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
     2.1%
@@ -93,12 +93,12 @@
     C++
   </text>
   <rect x="180" y="273" width="450" height="14" fill="#24283b" rx="3"/>
-  <rect x="180" y="273" width="27.527227366501943" height="14" fill="#f7768e" rx="3" opacity="0.85"/>
+  <rect x="180" y="273" width="27.010168534036346" height="14" fill="#f7768e" rx="3" opacity="0.85"/>
   <text x="650" y="285" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#c0caf5">
     2,550
   </text>
   <text x="760" y="285" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="12" fill="#565f89" text-anchor="end">
-    1.8%
+    1.7%
   </text>
 
   <text x="780" y="310" font-family="'SF Mono', 'Monaco', 'Courier New', monospace" font-size="10" fill="#2ac3de" text-anchor="end">
